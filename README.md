@@ -3,13 +3,13 @@ My personal website
 
 ## Education
 
--Masters
--Bachelors
+- Masters
+- Bachelors
 
 ## Employment
 
--Research Associate
--Research Intern
--Environmental Associate
--Intern
--Field Assistant
+- Research Associate
+- Research Intern
+- Environmental Associate
+- Intern
+- Field Assistant
