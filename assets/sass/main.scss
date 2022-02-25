@@ -54,9 +54,16 @@
 		line-height: 1;
 	}
 
-	ol, ul {
-		list-style:none;
+	ol {
+		list-style: none;
 	}
+	ul.a {
+		list-style-type: circle;
+	  }
+	  
+	  ul.b {
+		list-style-type: square;
+	  } 
 
 	blockquote,	q {
 		quotes: none;
