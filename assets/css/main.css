@@ -137,11 +137,11 @@ input, select, textarea {
 	}
 
 		h2.alt {
-			color: #888;
+			color: rgb(0, 0, 0);
 		}
 
 			h2.alt strong {
-				color: #666;
+				color: rgb(0, 0, 0);
 			}
 
 	h3 {
